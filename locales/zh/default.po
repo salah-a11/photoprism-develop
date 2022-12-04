@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-31 12:20+0000\n"
+"PO-Revision-Date: 2022-11-10 04:52+0000\n"
+"Last-Translator: SettingDust <settingdust@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://translate.photoprism.app/projects/photoprism/backend/zh_Hans/>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.14.2\n"
+
+msgid "Unexpected error, please try again"
+msgstr "意外错误，请重试"
+
+msgid "Invalid request"
+msgstr "无效请求"
+
+msgid "Changes could not be saved"
+msgstr "无法保存变更"
+
+msgid "Could not be deleted"
+msgstr "无法删除"
+
+#, c-format
+msgid "%s already exists"
+msgstr "%s 已存在"
+
+msgid "Not found"
+msgstr "未找到"
+
+msgid "File not found"
+msgstr "未找到文件"
+
+msgid "File too large"
+msgstr "文件过大"
+
+msgid "Unsupported format"
+msgstr "不支持的格式"
+
+msgid "Originals folder is empty"
+msgstr "原件文件夹是空的"
+
+msgid "Selection not found"
+msgstr "未找到所选内容"
+
+msgid "Entity not found"
+msgstr "未找到实体"
+
+msgid "Account not found"
+msgstr "未找到账户"
+
+msgid "User not found"
+msgstr "未找到用户"
+
+msgid "Label not found"
+msgstr "未找到标签"
+
+msgid "Album not found"
+msgstr "未找到相册"
+
+msgid "Subject not found"
+msgstr "未找到主题"
+
+msgid "Person not found"
+msgstr "未找到人物"
+
+msgid "Face not found"
+msgstr "未找到面孔"
+
+msgid "Not available in public mode"
+msgstr "在公开模式下不可用"
+
+msgid "Not available in read-only mode"
+msgstr "在只读模式下不可用"
+
+msgid "Please log in to your account"
+msgstr "请登录你的账户"
+
+msgid "Permission denied"
+msgstr "没有权限"
+
+msgid "Upload might be offensive"
+msgstr "上传内容可能具有冒犯性"
+
+msgid "Upload failed"
+msgstr "上传失败"
+
+msgid "No items selected"
+msgstr "未选择任何项目"
+
+msgid "Failed creating file, please check permissions"
+msgstr "创建文件失败，请检查权限"
+
+msgid "Failed creating folder, please check permissions"
+msgstr "创建目录失败，请检查权限"
+
+msgid "Could not connect, please try again"
+msgstr "无法连接，请重试"
+
+msgid "Invalid password, please try again"
+msgstr "无效密码，请重试"
+
+msgid "Feature disabled"
+msgstr "功能已禁用"
+
+msgid "No labels selected"
+msgstr "未选择标签"
+
+msgid "No albums selected"
+msgstr "未选择相册"
+
+msgid "No files available for download"
+msgstr "没有可供下载的文件"
+
+msgid "Failed to create zip file"
+msgstr "创建压缩文件失败"
+
+msgid "Invalid credentials"
+msgstr "无效凭证"
+
+msgid "Invalid link"
+msgstr "无效链接"
+
+msgid "Invalid name"
+msgstr "无效名称"
+
+msgid "Busy, please try again later"
+msgstr "忙碌中，请稍后重试"
+
+#, c-format
+msgid "The wakeup interval is %s, but must be 1h or less"
+msgstr "唤醒间隔为 %s，但必须小于等于 1 小时"
+
+msgid "Your account could not be connected"
+msgstr "你的账户无法连接"
+
+msgid "Changes successfully saved"
+msgstr "变更成功保存"
+
+msgid "Album created"
+msgstr "相册已创建"
+
+msgid "Album saved"
+msgstr "相册已保存"
+
+#, c-format
+msgid "Album %s deleted"
+msgstr "相册 %s 已删除"
+
+msgid "Album contents cloned"
+msgstr "相册内容已复制"
+
+msgid "File removed from stack"
+msgstr "文件已从堆中移除"
+
+msgid "File deleted"
+msgstr "文件已删除"
+
+#, c-format
+msgid "Selection added to %s"
+msgstr "所选项目已加入 %s"
+
+#, c-format
+msgid "One entry added to %s"
+msgstr "条目已添加到 %s"
+
+#, c-format
+msgid "%d entries added to %s"
+msgstr "%d 个条目已添加到 %s"
+
+#, c-format
+msgid "One entry removed from %s"
+msgstr "条目已从 %s 移除"
+
+#, c-format
+msgid "%d entries removed from %s"
+msgstr "%d 个条目已从 %s 移除"
+
+msgid "Account created"
+msgstr "账户已创建"
+
+msgid "Account saved"
+msgstr "账户已保存"
+
+msgid "Account deleted"
+msgstr "账户已删除"
+
+msgid "Settings saved"
+msgstr "设置已保存"
+
+msgid "Password changed"
+msgstr "密码已更改"
+
+#, c-format
+msgid "Import completed in %d s"
+msgstr "导入成功，耗时 %d 秒"
+
+msgid "Import canceled"
+msgstr "导入已取消"
+
+#, c-format
+msgid "Indexing completed in %d s"
+msgstr "索引成功，耗时 %d 秒"
+
+msgid "Indexing originals..."
+msgstr "索引源文件..."
+
+#, c-format
+msgid "Indexing files in %s"
+msgstr "索引 %s 中的文件"
+
+msgid "Indexing canceled"
+msgstr "索引已取消"
+
+#, c-format
+msgid "Removed %d files and %d photos"
+msgstr "移除了 %d 个文件和 %d 张照片"
+
+#, c-format
+msgid "Moving files from %s"
+msgstr "正在从 %s 中移动文件"
+
+#, c-format
+msgid "Copying files from %s"
+msgstr "正在从 %s 中复制文件"
+
+msgid "Labels deleted"
+msgstr "标签已移除"
+
+msgid "Label saved"
+msgstr "标签已保存"
+
+msgid "Subject saved"
+msgstr "主题已保存"
+
+msgid "Subject deleted"
+msgstr "主题已删除"
+
+msgid "Person saved"
+msgstr "人物已保存"
+
+msgid "Person deleted"
+msgstr "人物已删除"
+
+msgid "File uploaded"
+msgstr "已上传文件"
+
+#, c-format
+msgid "%d files uploaded in %d s"
+msgstr "已上传 %d 个文件，耗时 %d 秒"
+
+msgid "Processing upload..."
+msgstr "处理上传..."
+
+msgid "Upload has been processed"
+msgstr "上传已被处理"
+
+msgid "Selection approved"
+msgstr "所选项已批准"
+
+msgid "Selection archived"
+msgstr "所选项已归档"
+
+msgid "Selection restored"
+msgstr "所选项已恢复"
+
+msgid "Selection marked as private"
+msgstr "所选项已设为私有"
+
+msgid "Albums deleted"
+msgstr "相册已删除"
+
+#, c-format
+msgid "Zip created in %d s"
+msgstr "Zip 文件创建成功，耗时 %d 秒"
+
+msgid "Permanently deleted"
+msgstr "已永久删除"
+
+#, c-format
+msgid "%s has been restored"
+msgstr "%s 已恢复"
+
+#~ msgid "Not found on server, deleted?"
+#~ msgstr "服务器上不存在此文件, 或已被删除?"
